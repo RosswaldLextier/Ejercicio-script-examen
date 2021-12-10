@@ -1,0 +1,6 @@
+#########################
+nano 01hola-mundo.sh
+#!bin/bash
+echo "Hola mundo =" $#
+./01hola-mundo,sh
+########################
